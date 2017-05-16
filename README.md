@@ -1,2 +1,2 @@
 # strophe-sample
-Project for JavaScript-based XMPP apps using Strophe and Openfire
+Project for JavaScript-based XMPP server Openfier using Strophe API
